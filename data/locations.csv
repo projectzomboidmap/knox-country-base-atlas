@@ -1,0 +1,6 @@
+rank,name,town,x,y,type,zombie_pressure,safety,loot,water,defense,overall,map_url
+1,Carlow Road Farmhouse,West Point outskirts,10775,7144,Farmhouse,14,86,6,6,6,68,https://projectzomboidmap.net/#10775x7144x16
+2,Rosewood Fire Station,Rosewood,8143,11737,Fire station,77,23,8,8,8,63,https://projectzomboidmap.net/#8143x11737x16
+3,McCoy Logging Warehouse,Muldraugh,10301,9429,Warehouse,52,48,9,3,7,63,https://projectzomboidmap.net/#10301x9429x16
+4,Riverside Auto Shop,Riverside,5836,5379,Auto shop,64,36,8,5,7,60,https://projectzomboidmap.net/#5836x5379x16
+5,Mainslick Road Fenced House,"Doe Valley, Louisville",12950,3060,Fenced house,95,5,5,2,8,40,https://projectzomboidmap.net/#12950x3060x16
