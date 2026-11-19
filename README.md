@@ -11,10 +11,10 @@ database, and every score in this repository can be reproduced with the script
 in `tools/`.
 
 > **Proof edition.** The first 5 locations are scored and published. The list
-> grows to 50 in the open — watch the repository or grab the PDF from Releases.
+> grows to 50 in the open — watch the repository or download the PDF below.
 
-**[Open the live map](https://projectzomboidmap.net)** ·
-**[Download the Atlas PDF](https://github.com/projectzomboidmap/knox-country-base-atlas/releases)** ·
+**[Open the Project Zomboid B42 map](https://projectzomboidmap.net)** ·
+**[Download the Atlas PDF](Knox-Country-Base-Atlas-proof-edition.pdf)** ·
 **[itch.io](https://projectzomboidmap.itch.io/)** ·
 **[Knox Country Safehouse Jam](https://itch.io/jam/knox-country-safehouse-jam)** ·
 **[ModDB](https://www.moddb.com/mods/project-zomboid-map-interactive-b42-map-item-database)**
