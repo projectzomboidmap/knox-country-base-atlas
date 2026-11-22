@@ -78,6 +78,32 @@ assets/   banner and page art
 * Ekron, Brandenburg and the river towns
 * A beginner's five and a no-vehicle five, as separate cuts of the same data
 
+## Ground covered
+
+The Atlas scores bases across the whole of Build 42's Knox Country —
+Louisville and its suburbs, West Point, Muldraugh, Rosewood, Riverside,
+Brandenburg, Ekron and Doe Valley, plus the farms, warehouses and gas
+stations between the towns. Every location is checked on the interactive
+map itself: the same renders, the same population layer, the same item
+data any player can open.
+
+## Questions people ask
+
+**Why does an unknown farmhouse outscore the Rosewood Fire Station?**
+Because the scoring counts what is around a base, not just what is in it.
+The fire station holds superb loot and sits in Rosewood's most crowded
+ground; the farmhouse holds less and is surrounded by almost nothing.
+Both scores are printed in full — pick the trade-off you prefer.
+
+**Can I check a score myself?** Yes. The inputs live in
+`data/locations_input.json`, the method in `tools/score_locations.py`,
+and the renders come from the interactive map linked at the top of this
+page.
+
+**Will my favourite base be added?** The list grows to fifty — see the
+roadmap above. Open an issue with the coordinates and the case for it;
+evidence wins arguments here.
+
 ## Credits and license
 
 Map renders and item data come from
